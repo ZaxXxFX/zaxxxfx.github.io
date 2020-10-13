@@ -1,0 +1,14 @@
+Font - Neuropolitical
+https://www.dafont.com/neuropolitical.font
+
+Nag³ówek 30, -50 œwiat³o, bia³e, caps
+Ramka góra 24, 92% szerokoœci, bia³e, caps
+Ramka g³ówna
+	Tytu³y 24, 40 œwiat³o, kolor - 9ebeba
+	Tekst 12, kolor - 47d0ca
+	
+Menu
+	Text - Menu 18, 40 œwiat³o, caps, kolor - 898989
+	Text - Okno 11, 40 œwiat³o, caps, kolor - 898989
+	
+Wszystkie na strong
